@@ -1,0 +1,19 @@
+1_ una clase sealed restringe el ambito de herencia, es decir, se define una clase que no se puede heredar.
+
+2_ las expresiones relacional son las siguientes : " == " , "!=" , ">", "<" , ">=" , "<=".
+
+3_ si existen las herencias multiples.
+
+4_ Esto se puede acceder solo con el nombre de la clase , por ejemplo: Utiles.ValidarDatos();
+
+
+5_ public class Monedero{
+
+    protected int moneda;
+
+
+    public monedero(){}
+
+
+}
+
